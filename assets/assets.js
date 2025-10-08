@@ -8,10 +8,12 @@ import right_arrow_bold_dark from './right-arrow-bold-dark.png';
 import bash from './Bash.png';
 import code_icon from './code-icon.png';
 import code_icon_dark from './code-icon-dark.png';
+import cpp from './CPlusPlus.png';
 import download_icon from './download-icon.png';
 import edu_icon from './edu-icon.png';
 import edu_icon_dark from './edu-icon-dark.png';
 import firebase from './firebase.png';
+import flutter from './flutter-logo.png';
 import git from './git.png';
 import github from './GitHub.png';
 import header_bg_color from './header-bg-color.png';
@@ -55,10 +57,12 @@ export const assets = {
     bash,
     code_icon,
     code_icon_dark,
+    cpp,
     download_icon,
     edu_icon,
     edu_icon_dark,
     firebase,
+    flutter,
     git,
     github,
     header_bg_color,
@@ -130,9 +134,9 @@ export const infoList = [
 ];
 
 export const skillsData = [
-    assets.javascript, assets.react, assets.nextjs, assets.nodejs, assets.python, assets.numpy,
+   assets.cpp, assets.javascript, assets.react, assets.nextjs, assets.nodejs, assets.python, assets.numpy, assets.bash, assets.flutter,
 ];
 
 export const toolsData = [
-    assets.vscode,  assets.mongodb, assets.mysql, assets.git, assets.github, assets.bash, assets.jupyter, assets.firebase,
+    assets.vscode, assets.mongodb, assets.mysql, assets.git, assets.github, assets.jupyter, assets.firebase,
 ];
