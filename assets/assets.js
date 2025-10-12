@@ -10,6 +10,7 @@ import code_icon from './code-icon.png';
 import code_icon_dark from './code-icon-dark.png';
 import cpp from './CPlusPlus.png';
 import download_icon from './download-icon.png';
+import django from './Django.png';
 import edu_icon from './edu-icon.png';
 import edu_icon_dark from './edu-icon-dark.png';
 import firebase from './firebase.png';
@@ -59,6 +60,7 @@ export const assets = {
     code_icon_dark,
     cpp,
     download_icon,
+    django,
     edu_icon,
     edu_icon_dark,
     firebase,
@@ -109,22 +111,10 @@ export const workData = [
         bgImage: '/work-2.png',
     },
     {
-        title: 'Photography site',
-        description: 'Web Design',
-        bgImage: '/work-3.png',
-    },
-    {
         title: 'UI/UX designing',
         description: 'UI/UX Design',
         bgImage: '/work-4.png',
     },
-]
-
-export const serviceData = [
-    { icon: assets.web_icon, title: 'Web design', description: 'Web development is the process of building, programming...', link: '' },
-    { icon: assets.mobile_icon, title: 'Mobile app', description: 'Mobile app development involves creating software for mobile devices...', link: '' },
-    { icon: assets.ui_icon, title: 'UI/UX design', description: 'UI/UX design focuses on creating a seamless user experience...', link: '' },
-    { icon: assets.graphics_icon, title: 'Graphics design', description: 'Creative design solutions to enhance visual communication...', link: '' },
 ]
 
 export const infoList = [
@@ -133,8 +123,12 @@ export const infoList = [
     { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Projects', description: 'Built more than 5 projects' }
 ];
 
+export const languageData = [
+   assets.cpp, assets.javascript, assets.python, assets.bash,
+];
+
 export const skillsData = [
-   assets.cpp, assets.javascript, assets.react, assets.nextjs, assets.nodejs, assets.python, assets.numpy, assets.bash, assets.flutter,
+   assets.react, assets.nextjs, assets.nodejs, assets.python, assets.numpy, assets.django, assets.flutter,
 ];
 
 export const toolsData = [
