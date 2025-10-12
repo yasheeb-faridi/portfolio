@@ -8,10 +8,10 @@ const Skills = () => {
         <h2 className='font-serif text-center text-3xl mb-2'>Skills</h2>
 
         <h4 className='font-serif font-semibold text-center mb-8 mt-8'>Languages and Framework</h4>
-                <ul className='flex items-center justify-center gap-4 sm:gap-6'>
+                <ul className='flex items-center justify-center gap-2 sm:gap-4'>
                   {skillsData.map((skill, index) => (
-                    <li className='flex items-center justify-center w-12 sm:w-14 cursor-pointer hover:-translate-y-1 duration-500' key={index}>
-                      <Image src={skill} alt='Tool' className='w-6 sm:w-8' />
+                    <li className='flex items-center justify-center w-16 sm:w-12 cursor-pointer hover:-translate-y-1 duration-500' key={index}>
+                      <Image src={skill} alt='Tool' className='w-8 sm:w-12' />
                     </li>
                   ))}
                 </ul>
@@ -20,7 +20,7 @@ const Skills = () => {
         <ul className='flex items-center justify-center gap-4 sm:gap-6'>
           {toolsData.map((tool, index) => (
             <li className='flex items-center justify-center w-12 sm:w-14 cursor-pointer hover:-translate-y-1 duration-500' 
-                key={index}> <Image src={tool} alt='Tool' className='w-6 sm:w-8' />
+                key={index}> <Image src={tool} alt='Tool' className='w-8 sm:w-12' />
             </li>
           ))}
         </ul>

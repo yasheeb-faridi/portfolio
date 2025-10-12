@@ -19,7 +19,7 @@ import github from './GitHub.png';
 import header_bg_color from './header-bg-color.png';
 import javascript from './JavaScript.png'
 import jupyter from './Jupyter.png'
-import logo from './logo.png';
+import logo from './yasheeb_logo.jpg';
 import logo_dark from './logo_dark.png';
 import mail_icon from './mail_icon.png';
 import mail_icon_dark from './mail_icon_dark.png';

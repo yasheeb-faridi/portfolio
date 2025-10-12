@@ -9,7 +9,7 @@ const About = () => {
         <h2 className='font-serif text-center text-5xl'>About me</h2>
 
         <div className='flex-1 mt-6'>
-          <p className='font-serif text-center'>
+          <p className='font-serif mx-auto text-left'>
             I am a Software Developer with Background in Mathematics, Algorithms and have a knack for Problem solving.<br/>
             I have been programming using Linux since 2021. <br/> <br/>
             I am well versed in C++, Python, Javascript, Typescript, Bash <br/>

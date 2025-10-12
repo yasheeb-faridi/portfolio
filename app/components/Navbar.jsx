@@ -7,13 +7,13 @@ const Navbar = () => {
     <div>
     <nav className='sticky top-0 w-full fixed flex px-5 lg:px-8 xl:px-[8%] py-4 items-center justify-between z-50'>
       <a href='#top'>
-        <Image src={assets.logo} className='w-32 alt="logo" cursor-pointer mr-16'/>
+        <Image src={assets.logo} className='w-48 alt="logo" cursor-pointer mr-16'/>
       </a>
       <ul className='hidden md:flex items-center gap-6 rounded-full lg:gap-8 px-12 py-3'>
         <li><a href='#top'>Home</a></li>
         <li><a href='#about'>About</a></li>
         <li><a href='#skills'>Skills</a></li>
-        <li><a href='#services'>Services</a></li>
+        <li><a href='#services'>Experience</a></li>
         <li><a href='#projects'>Projects</a></li>
         <li><a href='#contact'>Contact Me</a></li>
       </ul>
@@ -32,7 +32,7 @@ const Navbar = () => {
           <li><a href='#top'>Home</a></li>
           <li><a href='#about'>About</a></li>
           <li><a href='#skills'>Skills</a></li>
-          <li><a href='#services'>Services</a></li>
+          <li><a href='#services'>Experience</a></li>
           <li><a href='#projects'>Projects</a></li>
           <li><a href='#contact'>Contact Me</a></li>
       </ul>
