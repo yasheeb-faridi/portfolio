@@ -10,7 +10,7 @@ const About = () => {
 
         <div className='flex-1 mt-6'>
           <p className='font-serif mx-auto text-left'>
-            I am a Software Developer with Background in Mathematics, Algorithms and have a knack for Problem solving.<br/>
+            I am a Software Developer with Background in Mathematics and have a knack for Problem solving.<br/>
             I have been programming using Linux since 2021. <br/> <br/>
             I am well versed in C++, Python, Javascript, Typescript, Bash <br/>
             I have also developed websites in React + Vite and Next JS as frontend and RestAPI, MongoDB, MySQL for database<br/>
