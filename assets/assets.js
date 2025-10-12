@@ -1,4 +1,4 @@
-import user_image from './user-image.png';
+// import user_image from './user-image.png';
 import arrow_icon from './arrow-icon.png';
 import arrow_icon_dark from './arrow-icon-dark.png';
 import right_arrow from './right-arrow.png';
@@ -21,7 +21,7 @@ import header_bg_color from './header-bg-color.png';
 import javascript from './JavaScript.png'
 import jupyter from './Jupyter.png'
 import logo from './yasheeb_logo.jpg';
-import logo_dark from './logo_dark.png';
+// import logo_dark from './logo_dark.png';
 import mail_icon from './mail_icon.png';
 import mail_icon_dark from './mail_icon_dark.png';
 import mongodb from './mongodb.png';
@@ -29,7 +29,7 @@ import mysql from './MySQL.png';
 import nextjs from './Next.js.png';
 import nodejs from './Node.js.png';
 import numpy from './NumPy.png'
-import profile_img from './profile-img.png';
+// import profile_img from './profile-img.png';
 import project_icon from './project-icon.png';
 import project_icon_dark from './project-icon-dark.png';
 import python from './Python.png'
@@ -48,7 +48,7 @@ import ui_icon from './ui-icon.png';
 import graphics_icon from './graphics-icon.png';
 
 export const assets = {
-    user_image,
+    // user_image,
     arrow_icon,
     arrow_icon_dark,
     right_arrow,
@@ -71,7 +71,6 @@ export const assets = {
     jupyter,
     javascript,
     logo,
-    logo_dark,
     mail_icon,
     mail_icon_dark,
     mongodb,
@@ -79,7 +78,7 @@ export const assets = {
     nextjs,
     nodejs,
     numpy,
-    profile_img,
+    // profile_img,
     project_icon,
     project_icon_dark,
     python,
@@ -103,17 +102,15 @@ export const workData = [
     {
         title: 'Frontend project',
         description: 'Web Design',
-        bgImage: '/work-1.png',
+        // bgImage: '/work-1.png',
     },
     {
         title: 'Geo based app',
         description: 'Mobile App',
-        bgImage: '/work-2.png',
     },
     {
         title: 'UI/UX designing',
         description: 'UI/UX Design',
-        bgImage: '/work-4.png',
     },
 ]
 
