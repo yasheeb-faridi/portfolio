@@ -1,4 +1,5 @@
 'use client'
+import { SpeedInsights } from "@vercel/speed-insights/next"
 import Image from "next/image";
 import Navbar from "./components/Navbar";
 import Header from "./components/Header";
@@ -15,6 +16,7 @@ export default function Home() {
     <About></About>
     <Skills></Skills>
     <Contacts></Contacts>
+    <SpeedInsights></SpeedInsights>
 
     </div>
   );
