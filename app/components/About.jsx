@@ -13,7 +13,7 @@ const About = () => {
             I am a Software Developer with Background in Mathematics and have a knack for Problem solving.<br/>
             I have been programming using Linux since 2021. <br/> <br/>
             I am well versed in C++, Python, Javascript, Typescript, Bash <br/>
-            I have also developed websites in React + Vite and Next JS as frontend and RestAPI, MongoDB, MySQL for database<br/>
+            I have also developed websites in React + Vite and Next JS as frontend and Express JS, Node.js, RestAPI and MongoDB, MySQL for database<br/>
             I am also famiiliar with tools like Git/GitHub, VS Code.
         </p>
         </div>
