@@ -14,7 +14,7 @@ const About = () => {
             I have been programming using Linux since 2021. <br/> <br/>
             I am well versed in C++, Python, Javascript, Typescript, Bash <br/>
             I have also developed websites in React + Vite and Next JS as frontend and Express JS, Node.js, RestAPI for Backend and MongoDB, MySQL for database<br/>
-            I am also famiiliar with tools like Git/GitHub, VS Code.
+            I am also famiiliar with tools like Git/GitHub, VS Code, Postman.
         </p>
         </div>
 
